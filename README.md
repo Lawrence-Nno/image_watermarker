@@ -26,7 +26,7 @@ This project was built using
  - This project requires Python v3+ to run.
 
 ## Demo
-[![GAME DEMO](https://github.com/Lawrence-Nno/Tic-Tac-Toe_game/blob/master/tic-tac-toe-image.png)](https://drive.google.com/file/d/1thgZtelybgae_PZTl65SVuqwPx71Ry6O/view?usp=sharing)
+[![GAME DEMO](https://github.com/Lawrence-Nno/image_watermarker/blob/master/image-watermarker.png?raw=true)](https://drive.google.com/file/d/1thgZtelybgae_PZTl65SVuqwPx71Ry6O/view?usp=sharing)
 
 
 
