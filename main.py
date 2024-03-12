@@ -95,12 +95,12 @@ def download():
 window = tk.Tk()
 window.title("Image WaterMarker")
 
-backGround = Canvas(window, height=300, width=600, bg="#ccccff")
+backGround = Canvas(window, height=300, width=600, bg="#BFD8AF")
 backGround.grid()
 
 
-window.option_add("*Button*Background", "lightgreen")
-window.option_add("*Entry*Background", "yellow")
+window.option_add("*Button*Background", "#D4E7C5")
+window.option_add("*Entry*Background", "#E1F0DA")
 
 image_to_watermark = Canvas(backGround, width=600, height=300)
 image_to_watermark.grid(row=0, pady=10, padx=10, columnspan=7)
