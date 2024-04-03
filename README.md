@@ -26,7 +26,7 @@ This project was built using
  - This project requires Python v3+ to run.
 
 ## Demo
-[![GAME DEMO](https://github.com/Lawrence-Nno/image_watermarker/blob/master/image-watermarker.png?raw=true)](https://drive.google.com/file/d/1thgZtelybgae_PZTl65SVuqwPx71Ry6O/view?usp=sharing)
+[![GAME DEMO](https://github.com/Lawrence-Nno/image_watermarker/blob/master/image-watermarker.png?raw=true)](https://drive.google.com/file/d/12xU4dNaUUYIGl_1Z_uDbwpIo3tuBm_Gq/view?usp=sharing)
 
 
 
